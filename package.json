@@ -1,11 +1,11 @@
 {
-  "name": "books-g2",
+  "name": "books",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://OlgaDzubak.github.io/books-g2",
+  "homepage": "https://lexiostrov.github.io/books",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /books-g2/"
+    "build": "parcel build src/*.html --public-url /books/"
   },
   "repository": {
     "type": "git",
